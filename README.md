@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LemonFan-maker</h1>
-<h3 align="center">爱瞎搞，求**GitHub别封我号**</h3>
+<h3 align="center">爱瞎搞，求GitHub别封我号</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonfan-maker&label=Profile%20views&color=0e75b6&style=flat" alt="lemonfan-maker" /> </p>
 
