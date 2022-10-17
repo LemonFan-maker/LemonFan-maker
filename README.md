@@ -12,9 +12,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LemonFan-maker&theme=blood-dark&locale=zh&ring=DD2727)](https://git.io/streak-stats)
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonfan-maker&show_icons=true&locale=en&layout=compact" alt="lemonfan-maker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonfan-maker&show_icons=true&locale=en" alt="lemonfan-maker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonfan-maker&show_icons=true&locale=en&layout=compact" alt="lemonfan-maker" /></p>
