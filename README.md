@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm LemonFan-maker</h1>
 <h3 align="center">爱瞎搞，求GitHub别封我号</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonfan-maker&label=Profile%20views&color=0e75b6&style=flat" alt="lemonfan-maker" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonfan-maker" alt="lemonfan-maker" /></a> </p>
 
 - 🌱 我当前在学习 **Python, GPT-2, Diffusion, Maths, Photohop**
