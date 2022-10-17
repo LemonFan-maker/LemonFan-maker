@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemonfan-maker" alt="lemonfan-maker" /></a> </p>
 
-- 🌱 我当前在学习 **Python, GPT-2, Diffusion, Maths， Photohop**
+- 🌱 我当前在学习 **Python, GPT-2, Diffusion, Maths, Photohop**
 
 - 📫 如何找到我 **Cyan2254650260@gmail.com**
 
