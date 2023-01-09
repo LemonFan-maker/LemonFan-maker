@@ -7,7 +7,4 @@
 
 - 📫 找我 **Cyan2254650260@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a></p>
-
 ![Metrics](https://raw.githubusercontent.com/LemonFan-maker/github-stats/main/github-metrics.svg)
