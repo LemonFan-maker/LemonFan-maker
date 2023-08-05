@@ -5,7 +5,7 @@
 
 **从2023-2-11日起进入停更状态(开学了QAQ)**
 
-- 🌱 研究 **Python, OCR, Diffusion, PhotoShop, BaiPiao, Action自动化**
+- 🌱 研究 **Python, OCR, PhotoShop, BaiPiao, Action自动化, 入坑JavaScript以及Electron**
 
 - 📫 找我 **Cyan2254650260@gmail.com**
 
