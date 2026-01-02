@@ -2,7 +2,7 @@
 
 ### A (pseudo) embedded Linux development engineer, currently learning contrastive learning 😋
 
-- 🔭 I'm currently working on **A desk pet for ESP32S3 and may**
+- 🔭 I'm currently working on **A desk pet for ESP32S3.**
 
 - 🌱 I'm currently learning **ARM-based Embedded Linux & FreeRTOS porting; resolving OpenMP-related segmentation faults.**
 
