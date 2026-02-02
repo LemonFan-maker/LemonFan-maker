@@ -5,9 +5,9 @@
 <table border="0" width="100%">
 <tr>
 <td width="65%" valign="top" style="border: none;">
-<h1 align="center">Hi 👋, I'm OrionisLi</h1>
+<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓞𝓻𝓲𝓸𝓷𝓲𝓼𝓛𝓲</h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+SC&weight=750&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=true&width=650&height=45&lines=%E7%94%9F%E4%BA%8E%E6%AD%A4%E5%A4%84%E5%8D%B4%E4%B8%8D%E7%9F%A5%E6%AD%A4%E5%A4%84%E3%80%82;%E6%97%A5%E5%85%89%E5%80%BE%E5%9F%8E%EF%BC%8C%E4%B8%87%E7%89%A9%E7%94%9F%E9%95%BF%EF%BC%8C%E5%8F%88%E6%98%AF%E4%B8%BA%E4%BD%95%EF%BC%9F;%E8%8B%A5%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%9C%B0%E7%9A%84%E6%8B%A5%E6%8A%B1%EF%BC%8C%E6%88%91%E4%BB%AC%E6%97%A9%E5%B7%B2%E6%B6%88%E5%A4%B1%E4%BA%8E%E8%8C%AB%E8%8C%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E4%B8%AD%E3%80%82;%E8%8B%A5%E6%B2%A1%E6%9C%89%E5%8E%9F%E5%AD%90%E4%B9%8B%E7%A8%B3%E5%AE%9A%EF%BC%8C%E6%88%91%E4%BB%AC%E4%BA%A6%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8%E3%80%82;%E6%97%A0%E4%BA%BA%E9%97%AE%E5%A4%A9%E5%9C%B0%E5%8F%98%E6%8D%A2%EF%BC%8C%E6%96%97%E8%BD%AC%E6%98%9F%E7%A7%BB%EF%BC%8C%E6%98%AF%E4%B8%BA%E4%BD%95%E6%95%85%EF%BC%9F;%E5%AE%87%E5%AE%99%E5%8F%88%E6%98%AF%E6%BA%90%E4%BA%8E%E4%BD%95%E5%A4%84%EF%BC%8C%E5%AE%83%E6%98%AF%E5%90%A6%E6%97%A0%E5%A7%8B%E6%97%A0%E7%BB%88%EF%BC%9F;%E6%97%B6%E9%97%B4%E8%8B%A5%E6%84%BF%E6%84%8F%E5%80%92%E6%B5%81%EF%BC%8C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AE%A4%E7%9F%A5%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E6%9C%89%E5%B1%80%E9%99%90%EF%BC%9F;%E4%B8%96%E9%97%B4%E6%9C%80%E6%B8%BA%E5%B0%8F%E4%B9%8B%E7%89%A9%E5%8F%88%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F;%E6%BB%9A%E6%BB%9A%E9%95%BF%E6%B1%9F%EF%BC%8C%E5%8D%B4%E5%8F%AA%E7%95%99%E6%9C%89%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%9C%AA%E6%9D%A5%E3%80%82;%E6%B5%A9%E6%B7%BC%E5%AE%87%E5%AE%99%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E5%9C%A8%E6%AD%A4%E7%9B%B8%E9%81%87%EF%BC%9F"alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+SC&weight=750&size=28&duration=3000&pause=1000&color=FF8B8B&center=true&vCenter=true&random=true&width=650&height=45&lines=%E7%94%9F%E4%BA%8E%E6%AD%A4%E5%A4%84%E5%8D%B4%E4%B8%8D%E7%9F%A5%E6%AD%A4%E5%A4%84%E3%80%82;%E6%97%A5%E5%85%89%E5%80%BE%E5%9F%8E%EF%BC%8C%E4%B8%87%E7%89%A9%E7%94%9F%E9%95%BF%EF%BC%8C%E5%8F%88%E6%98%AF%E4%B8%BA%E4%BD%95%EF%BC%9F;%E8%8B%A5%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%9C%B0%E7%9A%84%E6%8B%A5%E6%8A%B1%EF%BC%8C%E6%88%91%E4%BB%AC%E6%97%A9%E5%B7%B2%E6%B6%88%E5%A4%B1%E4%BA%8E%E8%8C%AB%E8%8C%AB%E5%AE%87%E5%AE%99%E4%B9%8B%E4%B8%AD%E3%80%82;%E8%8B%A5%E6%B2%A1%E6%9C%89%E5%8E%9F%E5%AD%90%E4%B9%8B%E7%A8%B3%E5%AE%9A%EF%BC%8C%E6%88%91%E4%BB%AC%E4%BA%A6%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8%E3%80%82;%E6%97%A0%E4%BA%BA%E9%97%AE%E5%A4%A9%E5%9C%B0%E5%8F%98%E6%8D%A2%EF%BC%8C%E6%96%97%E8%BD%AC%E6%98%9F%E7%A7%BB%EF%BC%8C%E6%98%AF%E4%B8%BA%E4%BD%95%E6%95%85%EF%BC%9F;%E5%AE%87%E5%AE%99%E5%8F%88%E6%98%AF%E6%BA%90%E4%BA%8E%E4%BD%95%E5%A4%84%EF%BC%8C%E5%AE%83%E6%98%AF%E5%90%A6%E6%97%A0%E5%A7%8B%E6%97%A0%E7%BB%88%EF%BC%9F;%E6%97%B6%E9%97%B4%E8%8B%A5%E6%84%BF%E6%84%8F%E5%80%92%E6%B5%81%EF%BC%8C%E6%88%91%E4%BB%AC%E7%9A%84%E8%AE%A4%E7%9F%A5%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E6%9C%89%E5%B1%80%E9%99%90%EF%BC%9F;%E4%B8%96%E9%97%B4%E6%9C%80%E6%B8%BA%E5%B0%8F%E4%B9%8B%E7%89%A9%E5%8F%88%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F;%E6%BB%9A%E6%BB%9A%E9%95%BF%E6%B1%9F%EF%BC%8C%E5%8D%B4%E5%8F%AA%E7%95%99%E6%9C%89%E8%BF%87%E5%8E%BB%EF%BC%8C%E4%B8%8D%E7%9F%A5%E6%9C%AA%E6%9D%A5%E3%80%82;%E6%B5%A9%E6%B7%BC%E5%AE%87%E5%AE%99%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E5%9C%A8%E6%AD%A4%E7%9B%B8%E9%81%87%EF%BC%9F"alt="Typing SVG" />
 </a>
 <br/><br/>
 <ul style="list-style-type: none; padding: 0;">
@@ -18,7 +18,7 @@
 <li>⚡ Fun fact: <b>I’m good at memes.</b></li>
 <li>📫 Contact: <b>cyan2254650260@gmail.com</b></li>
 </ul>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h3>
 <p align="left">
 <a href="https://github.com/LemonFan-maker" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://kaggle.com/lemonfan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
@@ -33,10 +33,10 @@
 
 <hr/>
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 𝖆𝖓𝖉 𝕿𝖔𝖔𝖑𝖘</h3>
 
 <div align="center">
-  <h4 style="margin-bottom: 10px;">Embedded & Linux</h4>
+  <h4 style="margin-bottom: 10px;">𝔼𝕞𝕓𝕖𝕕𝕕𝕖𝕕 & 𝕃𝕚𝕟𝕦𝕩</h4>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <h4 style="margin-bottom: 10px;">AI & Data Science</h4>
+  <h4 style="margin-bottom: 10px;">𝔸𝕀 & 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕔𝕖</h4>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   </a>
@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <h4 style="margin-bottom: 10px;">Web & Tools</h4>
+  <h4 style="margin-bottom: 10px;">𝕎𝕖𝕓 & 𝕋𝕠𝕠𝕝𝕤</h4>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
