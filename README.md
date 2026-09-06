@@ -14,7 +14,7 @@
 <li>🔭 Working on: <b>A desk pet for ESP32S3</b></li>
 <li>🌱 Learning: <b>ARM Linux, FreeRTOS & OpenMP</b></li>
 <li>👯 Collaborating on: <a href="https://github.com/LubanCat"><b>LubanCat</b></a></li>
-<li>📝 Writing posts at: <a href="https://posts.orionisli.cn"><b>posts.orionisli.com</b></a></li>
+<li>📝 Writing posts at: <a href="https://posts.orionisli.com"><b>posts.orionisli.com</b></a></li>
 <li>⚡ Fun fact: <b>I’m good at memes.</b></li>
 <li>📫 Contact: <b>cyan2254650260@gmail.com</b></li>
 </ul>
