@@ -7,7 +7,7 @@
 <td width="65%" valign="top" style="border: none;">
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓞𝓻𝓲𝓸𝓷𝓲𝓼𝓛𝓲</h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=750&size=22&letterSpacing=&duration=3500&pause=1000&multiline=true&width=430&height=60&lines=%E5%90%BE%E7%AD%89%E6%89%80%E6%9C%9B%EF%BC%8C%E9%82%A3%E4%B8%83%E5%A3%B0%E7%9A%84%E5%93%80%E5%8F%B9%E3%80%82;%E5%90%BE%E7%AD%89%E7%8A%B9%E8%AE%B0%EF%BC%8C%E6%9D%B0%E9%87%8C%E7%A7%91%E7%9A%84%E5%8F%A4%E5%88%99%E3%80%82" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=750&size=22&letterSpacing=&duration=3500&pause=1000&center=true&multiline=true&width=430&height=60&lines=%E5%90%BE%E7%AD%89%E6%89%80%E6%9C%9B%EF%BC%8C%E9%82%A3%E4%B8%83%E5%A3%B0%E7%9A%84%E5%93%80%E5%8F%B9%E3%80%82;%E5%90%BE%E7%AD%89%E7%8A%B9%E8%AE%B0%EF%BC%8C%E6%9D%B0%E9%87%8C%E7%A7%91%E7%9A%84%E5%8F%A4%E5%88%99%E3%80%82" alt="Typing SVG" />
 </a>
 <br/><br/>
 <ul style="list-style-type: none; padding: 0;">
