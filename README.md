@@ -11,7 +11,7 @@
 </a>
 <br/><br/>
 <ul style="list-style-type: none; padding: 0;">
-<li>🔭 Working on: <b>A desk pet for ESP32S3</b></li>
+<li>🔭 Working on: <b>Linux Kernel & Mesa</b></li>
 <li>🌱 Learning: <b>ARM Linux, FreeRTOS & OpenMP</b></li>
 <li>👯 Collaborating on: <a href="https://github.com/LubanCat"><b>LubanCat</b></a></li>
 <li>📝 Writing posts at: <a href="https://posts.orionisli.com"><b>posts.orionisli.com</b></a></li>
